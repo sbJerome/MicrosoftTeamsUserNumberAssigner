@@ -1,7 +1,7 @@
 ![TDRUNA](https://github.com/erik365online/MicrosoftTeamsUserNumberAssigner/blob/main/TDRUNAV03.png?raw=true)
 
 The script opens a graphical user interface (GUI) to simplify a few basic enablement tasks. 
-It's called the Teams Direct Routing User Number Assigner (TDR-UNA) and can be used to enable a single Teams User for Teams Direct Routing.
+It's called the Teams Direct Routing User Number Assigner (TDRUNA) and can be used to enable a single Teams User for Teams Direct Routing.
   
 Use on your own risk.
 
